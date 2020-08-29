@@ -2,6 +2,7 @@
 <p align="center">
 <img src="./.github/img.png"></img>
 </p>
+
 # Api de Games para estudo
 
 API desenvolvida com o propósito de estudar mais sobre a contrução de api's com o Nodejs.
