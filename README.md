@@ -5,7 +5,7 @@
 
 # Api de Games para estudo
 
-API desenvolvida com o propósito de estudar mais sobre a contrução de api's com o Nodejs.
+API desenvolvida com o propósito de estudar mais sobre a construção de api's utilizando o Nodejs.
 
 
 ## Dependencias
@@ -36,7 +36,7 @@ Nenhum
 #### Respostas
 
 ##### OK! 200
-Caso está resposta aconteça, você recebera a listagem de todos os games
+Caso está resposta aconteça, você receberá a listagem de todos os games
 
 Exemplo de resposta:
 ```
